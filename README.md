@@ -16,5 +16,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Deployed at surge
 
-  - Project is deployed in [Surge]("https://surge.sh/")
-  - Hosted at [tooltip]("http://hysterical-care.surge.sh/")
+  - Project is deployed in [Surge](https://surge.sh/)
+  - Hosted at [tooltip](http://hysterical-care.surge.sh/)
